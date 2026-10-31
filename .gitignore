@@ -5,3 +5,4 @@ node_modules
 client/dist
 *.log
 cookies.txt
+!client/.env.production

@@ -306,7 +306,7 @@ Open `http://localhost:5000`.
 - [x] Add, edit, delete and record payments
 - [x] MongoDB, authentication and automated tests
 - [x] Production build served by Express
-- [ ] Deploy to a hosting provider
+- [x] Deploy to a hosting provider
 - [ ] Payment history (a separate `payments` collection) and soft delete
 - [ ] Multiple roles
 - [ ] React component tests
